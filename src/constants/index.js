@@ -119,7 +119,7 @@ const experiences = [
     title: "FrontEnd Developer",
     company_name: "VaaniArc: Chat Application",
     icon: starbucks,
-    iconBg: "#383E56",
+    iconBg: "#050816",
     date: "July 2025 - June 2026",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
