@@ -129,7 +129,7 @@ const experiences = [
     ],
   },
   {
-    title: "Actor || Technical Supervisor",
+    title: "Actor | Technical Supervisor",
     company_name: "Globe Productions",
     icon: shopify,
     iconBg: "#050816",
