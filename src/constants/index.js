@@ -132,7 +132,7 @@ const experiences = [
     title: "Co-Founder",
     company_name: "Endless Creation",
     icon: tesla,
-    iconBg: "#E6DEDD",
+    iconBg: "#020000",
     date: "Jan 2021 - Feb 2022",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
@@ -145,7 +145,7 @@ const experiences = [
     title: "Actor",
     company_name: "Globe Productions",
     icon: shopify,
-    iconBg: "#383E56",
+    iconBg: "#000000",
     date: "Jan 2022 - Jan 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
@@ -158,7 +158,7 @@ const experiences = [
     title: "Technical Supervisor",
     company_name: "Globe Productions",
     icon: meta,
-    iconBg: "#E6DEDD",
+    iconBg: "#050100",
     date: "Jan 2023 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
